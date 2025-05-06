@@ -15,4 +15,6 @@ $fahrenheitNew = 212; // Temperature in Fahrenheit
 
 $celsiusNew = ($fahrenheitNew - 32) * 5/9; // Convert Fahrenheit to Celsius  
 echo "Fahrenheit(" . $fahrenheitNew . "°F) to Celsius is " . $celsiusNew . "°C.\n"; 
+
+?>
    
