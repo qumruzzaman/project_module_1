@@ -22,3 +22,5 @@ if($number%2 == 0){
 }
 
 echo "The number $number is $sign and $parity";
+
+?>
