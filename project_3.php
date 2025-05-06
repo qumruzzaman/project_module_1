@@ -13,3 +13,5 @@ if(($user == $inputUser) && ($password == $inputPassword)){
     echo "Invalid username or password<br>";
 }
 echo "<br>";
+
+?>
