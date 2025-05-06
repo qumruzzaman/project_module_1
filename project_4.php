@@ -21,3 +21,5 @@ if($units<=50){
 }
 
 printf("Total bill for %d units is: %.2f Taka<br>", $units, $bill);
+
+?>
