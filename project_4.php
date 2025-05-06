@@ -1,5 +1,5 @@
 <?php
-//  Simple Electricity Bill Calculator
+//  Project 4: Simple Electricity Bill Calculator
 // If units are less than or equal to 50: bill = units * 3.50
 //  If units are less than or equal to 100: bill = 50 * 3.50 + (units - 50) * 4.00
 //  If units are less than or equal to 200: bill = 50 * 3.50 + 50 * 4.00 + (units - 100) * 5.20
