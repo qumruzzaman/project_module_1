@@ -8,7 +8,7 @@ if($number > 0){
 }elseif($number < 0){
     $sign = "Negative";
 }elseif($number == 0){
-    $sign = "zero";
+    $sign = "neither positive nor negative";
 }else{
     $sign = "Invalid";
 }
