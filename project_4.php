@@ -17,6 +17,6 @@ if($units<=50){
 }else{
     $bill = (50 * 3.50) + (50 * 4.00) + (100 * 5.20) + ($units - 200) * 6.50;
 }
-printf("Total bill for %d units is: %.2f Taka<br>", $units, $bill);
+printf("Total bill for %d units is: %.2f Taka", $units, $bill);
 
 ?>
